@@ -10,7 +10,7 @@ I'm a DevOps Engineer, Financial investment Enthusiast, and Actuary who currentl
 - 🌱 I’m currently learning Bash scripting, Terraform, Kubernetes, and other core DevOps tools.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, site reliability engineer, or Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing sheactuary@gmail.com.
+- 📫 You can [view my work in progress cloud resume](www.devops.3figirl.com) and contact me by emailing sheactuary@gmail.com.
 
 ---
 
