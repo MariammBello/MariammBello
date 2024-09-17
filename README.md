@@ -11,6 +11,7 @@ I'm a DevOps Engineer and Financial investment Enthusiast. I work as a DevOps En
 - 😊 I’m looking to contribute in open source projects, hackathons, internships, and DevOps entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, site reliability engineer, or Cloud Engineer (>=Junior level).
 - 📫 Here's my [work in progress cloud resume](http://opensourceresume.3figirl.com/).
+- 💼 Oh, and FIRE means Financial Independence, Retire Early by the way!
 
 ---
 
