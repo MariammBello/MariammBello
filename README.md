@@ -10,7 +10,7 @@ I'm a DevOps Engineer and Financial investment Enthusiast. I work as a DevOps En
 - 🌱 I’m currently learning Bash scripting, Terraform, Kubernetes, and other core DevOps tools.
 - 😊 I’m looking to contribute in open source projects, hackathons, internships, and DevOps entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, site reliability engineer, or Cloud Engineer (>=Junior level).
-- 📫 Here's my [view my work in progress cloud resume](http://opensourceresume.3figirl.com/).
+- 📫 Here's my [work in progress cloud resume](http://opensourceresume.3figirl.com/).
 
 ---
 
