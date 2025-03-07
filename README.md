@@ -7,10 +7,10 @@ I'm a DevOps Engineer and Financial investment Enthusiast. I work as a DevOps En
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm 181cm tall, making me taller than about 90% of the world.
-- 🌱 I’m currently learning Bash scripting, Terraform, Kubernetes, and other core DevOps tools.
-- 😊 I’m looking to contribute in open source projects, hackathons, internships, and DevOps entry-level opportunities.
-- 💼 Job interests: DevOps Engineer, site reliability engineer, or Cloud Engineer (>=Junior level).
-- 📫 Here's my [work in progress cloud resume](http://opensourceresume.3figirl.com/).
+- 🌱 I’m currently improving my Kubernetes and cloud native development skills. Iv'e also reincorporated the use of AI and Machine learning engineering in my daily workflows.
+- 😊 I’m looking to contribute in open source projects, hackathons and DevOps opportunities.
+- 💼 Job interests: DevOps Engineer, site reliability engineer, or Cloud Engineer.
+- 📫 Here's my [work in progress cloud resume](http://opensourceresume.3figirl.com/). 
 - 💼 Oh, and FIRE means Financial Independence, Retire Early by the way!
 
 ---
